@@ -1,0 +1,4 @@
+deepFace
+flask
+os
+uuid
